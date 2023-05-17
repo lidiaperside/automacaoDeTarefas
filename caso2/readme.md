@@ -10,3 +10,9 @@ Your boss's email: for our exercise, put your email as your boss's email
 Access link to the company's system: https://pages.hashtagtreinamentos.com/aula1-intensivao-sistema
 
 To solve this, we are going to use pyautogui, a keyboard and mouse command automation library.
+
+PS: 
+pyautogui.click -> mouse's click
+# pyautogui.write -> write a text
+# pyautogui.press -> press a key
+# pyautogui.hotkey -> press a key combination (ex: Ctrl + D)
