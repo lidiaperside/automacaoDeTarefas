@@ -1,1 +1,3 @@
-In this cases, we will work with automization with pyautogui
+# Automation of Systems and Processes with Python using pyautogui
+
+## Project's details in the chanllenge's folder
